@@ -1,0 +1,11 @@
+X=input("please enter a weired noun:")
+z=input("please enter a verb ending in ing: ")
+s=input("please enter an adjective:")
+d=input("please enter a food:")
+c=input("please enter a quantity:")
+d=input("please eneter a famous person:")
+
+print("...personal experience...")
+print(" once upon a time, b"+ a+ x,"was discoverd while", z+"." )
+print("the gotham was shocked, especially when it stated eating",c+"bowls of", a +".")
+print ("In a shocking ")

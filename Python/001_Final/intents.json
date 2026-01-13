@@ -1,0 +1,128 @@
+{
+   "intents":[
+   {
+       "tag": "greeting",
+       "patterns": ["hello","hey", "dear", "hi", "good morning", "how are you", "good afternoon", "sup", "whats good", "yo","greetings", "good day"],
+       "responses": ["hey there", "how are you", "how's it going","lam doing great","what's up","right back at you", "nice to see you", "all good, how about you"]
+   },
+   {
+       "tag": "goodbye",
+      "patterns": ["good bye", "bye bye", "adios", "later","save travels","see ya", "gtg","g2g","salutations","cya", "farewell"],
+      "responses": ["Catch you later", "take it easy","Have a good one", "all the best", "take care", "talk to you soon"] 
+   },
+   {
+      "tag": "world cup 2022",
+      "patterns": ["Who won the 2022 world cup?", "2022", "world cup 2022", "2022 soccer"],
+      "responses": ["The team who won the 2022 world cup was Argentina. They played against France."]
+   },
+   {
+      "tag": "world cup 2018",
+      "patterns": ["Who won the 2018 world cup?", "2018", "world cup 2018", "2018 soccer"],
+      "responses": ["The team who won the 2018 world cup was France. They played against Croatia."]
+   },
+   {
+      "tag": "world cup 2014",
+      "patterns": ["Who won the 2012 world cup?", "2014", "world cup 2014", "2014 soccer"],
+      "responses": ["The team who won the 2014 world cup was Germany. They played against USA."]
+   },
+   {
+      "tag": "world cup 2010",
+      "patterns": ["Who won the 2006 world cup?", "2010", "world cup 2010", "2010 soccer"],
+      "responses": ["The team who won the 2010 world cup was Spain. They played against Netherlands."]
+   },
+   {
+      "tag": "world cup 2006",
+      "patterns": ["Who won the 2006 world cup?", "2006", "world cup 2006", "2006 soccer"],
+      "responses": ["The team who won the 2006 world cup was Italy. They played against France."]
+   },   
+   {   "tag": "world cup 2002",
+      "patterns": ["Who won the 2002 world cup?", "2002", "world cup 2002", "2002 soccer"],
+      "responses": ["The team who won the 2002 world cup was Brazil. They played against Germany."]
+   },
+   {
+      "tag": "world cup 1998", 
+      "patterns": ["Who won the 1998 world cup?", "1998", "world cup 1998", "1998 soccer"],
+      "responses": ["The team who won the 1998 world cup was France. They played against Brazil."]
+   },
+   {
+      "tag": "world cup 1994",
+      "patterns": ["Who won the 1994 world cup?", "1994", "world cup 1994", "1994 soccer"],
+      "responses": ["The team who won the 1994 world cup was Brazil. They played against Italy."]
+   },   
+   {
+      "tag": "world cup 1990",
+      "patterns": ["Who won the 1990 world cup?", "1990", "world cup 1990", "1990 soccer"],
+      "responses": ["The team who won the 1990 world cup was Germany. They played against Argentina."]
+   },
+   {
+      "tag": "world cup 1986",
+      "patterns": ["Who won the 1986 world cup?", "1986", "world cup 1986", "1986 soccer"],
+      "responses": ["The team who won the 1986 world cup was Argentina. They played against West Germany."]
+   },
+   {
+      "tag": "world cup 1982",
+      "patterns": ["Who won the 1982 world cup?", "1982", "world cup 1982", "1982 soccer"],
+      "responses": ["The team who won the 1982 world cup was Italy. They played against West Germany."]
+   },
+   {
+      "tag": "world cup 1978",
+      "patterns": ["Who won the 1978 world cup?", "1978", "world cup 1978", "1978 soccer"],
+      "responses": ["The team who won the 1978 world cup was Argentina. They played against Netherlands."]
+   },
+   {
+      "tag": "world cup 1974",
+      "patterns": ["Who won the 1974 world cup?", "1974", "world cup 1974", "1974 soccer"],
+      "responses": ["The team who won the 1974 world cup was Germany. They played against Netherlands."]
+   },   
+   {
+      "tag": "world cup 1970",
+      "patterns": ["Who won the 1970 world cup?", "1970", "world cup 1970", "1970 soccer"],
+      "responses": ["The team who won the 1970 world cup was Brazil. They played against Italy."]
+   },
+   {
+      "tag": "world cup 1966",
+      "patterns": ["Who won the 1966 world cup?", "1966", "world cup 1966", "1966 soccer"],
+      "responses": ["The team who won the 1966 world cup was England. They played against Brazil."]
+   },
+   {
+      "tag": "world cup 1962",
+      "patterns": ["Who won the 1962 world cup?", "1962", "world cup 1962", "1962 soccer"],
+      "responses": ["The team who won the 1962 world cup was Brazil. They played against Czechoslovakia."]
+   },
+   {
+      "tag": "world cup 1958",
+      "patterns": ["Who won the 1958 world cup?", "1958", "world cup 1958", "1958 soccer"],
+      "responses": ["The team who won the 1958 world cup was Brazil. They played against Sweden."]
+   },
+   {
+      "tag": "world cup 1954",
+      "patterns": ["Who won the 1954 world cup?", "1954", "world cup 1954", "1954 soccer"],
+      "responses": ["The team who won the 1954 world cup was Germany. They played against Hungary."]
+   },
+   {
+      "tag": "world cup 1950",
+      "patterns": ["Who won the 1950 world cup?", "1950", "world cup 1950", "1950 soccer"],
+      "responses": ["The team who won the 1950 world cup was Uruguay. They played against Brazil."]
+   },
+   {
+      "tag": "world cup 1938",
+      "patterns": ["Who won the 1938 world cup?", "1938", "world cup 1938", "1938 soccer"],
+      "responses": ["The team who won the 1938 world cup was Italy. They played against Hungary."]
+   },
+   {
+      "tag": "world cup 1934",
+      "patterns": ["Who won the 1934 world cup?", "1934", "world cup 1934", "1934 soccer"],
+      "responses": ["The team who won the 1934 world cup was Italy. They played against Czechoslovakia."]
+   },
+   {
+      "tag": "world cup 1930",
+      "patterns": ["Who won the 1930 world cup?", "1930", "world cup 1930", "1930 soccer"],
+      "responses": ["The team who won the 1930 world cup was Uruguay. They played against Argentina."]
+   },
+   {"tag": "world cup fun facts",
+   "patterns":["world cup fun facts","fun facts about world cup","fun facts","interesting information about world cup","talk me about world cup"],
+   "responses":["Brazil won five world cups","Brazil has played in every tournament","Hakan Şükür scored the fastest goal ever in 11 seconds in 2002","The original trophy was stolen and never found, leading to the current gold trophy","the world cup is the world's most watched sporting event, with 1.5 billion watching the 2022 final","the first tournament was hosted by Uruguay in 1930","the world cup overtook the Olympics to become the most-viewed sporting event","first goal ever scored by France's Lucien Laurent in 1930","USA's best finish was third place in the inaugural 1930 tournament","2026 is expected to be the final World Cup for icons like Lionel Messi and Cristiano Ronaldo."]
+   }
+   
+   ]
+}
